@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case to verify UI and functionalities on Melalie web page</description>
+   <name>Melalie_web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bad41743-1a7b-45a0-ba5f-ea8d8d476a92</testCaseGuid>
+</TestCaseEntity>
